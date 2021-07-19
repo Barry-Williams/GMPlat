@@ -1,0 +1,17 @@
+{
+  "option_gameguid": "19c767de-cebd-4076-bc95-33c4ec0d4258",
+  "option_gameid": "0",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 255,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": true,
+  "option_author": "Barry Williams",
+  "option_lastchanged": "15 September 2020 19:51:28",
+  "option_spine_licence": false,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}
