@@ -1,4 +1,4 @@
-/// @description 
+/// @description gun follow mouse and bullet firing
 // You can write your code in this editor
 
 //follow player

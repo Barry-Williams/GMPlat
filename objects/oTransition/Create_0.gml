@@ -1,4 +1,4 @@
-/// @description ?
+/// @description verticle bars transition unfinished
 
 h = display_get_gui_height();
 w = display_get_gui_width();
