@@ -7,3 +7,5 @@ walksp = 4;
 hp = 10;
 can_hit = true;
 can_move = true;
+
+//test
